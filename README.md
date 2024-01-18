@@ -1,4 +1,4 @@
-# Personal Portfolio 🔥
+# Personal Portfolio
 > https://shreyasnax2451.github.io/
 
 
